@@ -1,0 +1,11 @@
+{
+  "name": "vishcraft-portfolio",
+  "version": "1.0.0",
+  "description": "VishCraft — Vishvam Patel's Minecraft-themed developer portfolio",
+  "scripts": {
+    "dev": "npx http-server -p 3000 -c-1"
+  },
+  "keywords": [],
+  "author": "Vishvam Patel",
+  "license": "ISC"
+}
